@@ -214,9 +214,7 @@ Jeśli stała `DEB_FUNKCJA_X` jest ustawiona na `true`, komunikat trafi do pliku
    ```php
    define('DEB_MODUL_A', true);
    define('DEB_MODUL_B', true);
-   define('DEB_MODUL_C
-
-   ', false);
+   define('DEB_MODUL_C', false);
    ```
    Następnie w kodzie stosujesz:
    ```php
